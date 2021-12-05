@@ -9,3 +9,5 @@ Technique: Machine Learning
 Algorithm Used: Linear Regression, Logastic Regression , SVM and Random Forest
 
 IDE: Jupyter Notebook
+
+Dataset : Pima Indians Diabetes 
