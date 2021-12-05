@@ -10,6 +10,6 @@ Algorithm Used: Linear Regression, Logastic Regression , SVM and Random Forest
 
 IDE: Jupyter Notebook
 
-Dataset : Pima Indians Diabetes 
+Dataset : Pima Indians Diabetes Dataset
 
 status: still working on it.
