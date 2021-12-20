@@ -6,7 +6,7 @@ Project Name : Diabetes Prediction using Machine Learning
 
 Technique: Machine Learning 
 
-Algorithm Used: Linear Regression, Logastic Regression , SVM and Random Forest
+Algorithm Used: Linear Regression, Logastic Regression , SVM ,Random Forest and KNN
 
 IDE: Jupyter Notebook
 
