@@ -12,4 +12,4 @@ IDE: Jupyter Notebook
 
 Dataset : Pima Indians Diabetes Dataset
 
-status: still working on it.
+
